@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Greg
-- 👀 I’m interested in becoming an automation testing guru
+- 👀 I’m interested in becoming an automation guru
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on automation framework projects
 - 📫 How to reach me:  greg.rbibo@gmail.com
